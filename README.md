@@ -1,6 +1,6 @@
 # E-commerce AI Platform 🚀
 
-Dự án website thương mại điện tử tích hợp AI, được phát triển bằng công nghệ Next.js hiện đại, tập trung vào trải nghiệm người dùng thông minh và quản lý quy trình chuyên nghiệp qua Jira.
+Dự án website thương mại điện tử tích hợp AI, được phát triển bằng công nghệ Next.js hiện đại, tập trung vào trải nghiệm người dùng thông minh và quản lý quy trình chuyên nghiệp qua Jira. Dự án sử dụng Framework Cursor AI.
 
 ---
 
